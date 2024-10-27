@@ -9,7 +9,7 @@ description: Australia and New Zealand
 
 <FlatUiTable
   data={{
-    url: 'aust_nz.csv'
+    url: 'au_nz.csv'
   }}
 />
 
